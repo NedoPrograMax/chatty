@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148176219038",
+    "project_id": "chatty-wkoppk",
+    "storage_bucket": "chatty-wkoppk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148176219038:android:e809f5eca33d8ba9a0848f",
+        "android_client_info": {
+          "package_name": "com.empat.chatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYoVppFwEvb0ds5ZXG7LLOwbmzKWAqqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

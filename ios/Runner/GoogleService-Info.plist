@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCN1Tkew86jEiO-f8kiMJIDJbWRt8XjrgQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148176219038</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.empat.chatty</string>
+	<key>PROJECT_ID</key>
+	<string>chatty-wkoppk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatty-wkoppk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148176219038:ios:bb2a7c20fd4dff40a0848f</string>
+</dict>
+</plist>
